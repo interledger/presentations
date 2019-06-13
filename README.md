@@ -21,3 +21,6 @@ From @emschwartz
 - https://docs.google.com/presentation/d/1P9YJAj7SVzD-nIOfA7Zn2PRhSkHDZuwd134sluG2Zng/
 - https://docs.google.com/presentation/d/1V86GK0Jm8uqWmfB3Fo9azLcELIPvrog25vsvdZUk7iw/
 
+From @sprwn
+
+- https://docs.google.com/presentation/d/1aC9nfoPuqb6BPKoZM1FvVwTA7ne3YlJgag_s9dVSPYY/edit?usp=sharing
