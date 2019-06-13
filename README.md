@@ -8,7 +8,7 @@ There is also a [channel on Slack](https://interledger.slack.com/messages/CHC2A2
 
 ## License
 
-This is an repo for sharing content.
+This is repository for sharing content that others WILL use. 
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />All content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
